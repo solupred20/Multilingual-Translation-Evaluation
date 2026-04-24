@@ -1,0 +1,6 @@
+id,source_text,translated_text,language_pair,notes
+1,Take your medication daily,خذ دواءك يومياً,en-ar,correct translation
+2,The patient has diabetes,المريض يعاني من السكري,en-ar,accurate medical term
+3,How are you?,كيف حالك؟,en-ar,standard Arabic
+4,How are you?,وش اخبارك؟,en-ar-saudi,Saudi dialect
+5,This drug may cause dizziness,هذا الدواء قد يسبب دوخة,en-ar,medical context
