@@ -80,6 +80,6 @@ README.md
 
 ## Author
 
-Mohamed Mostafa  
+Mohamed Moustafa  
 Pharmacist | AI Evaluation Specialist | Multilingual Analyst  
 GitHub: https://github.com/solupred20
